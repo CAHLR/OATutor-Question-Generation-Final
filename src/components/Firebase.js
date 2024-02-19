@@ -352,7 +352,7 @@ class Firebase {
             bioInfo: "abcedf",
             variabilization: null,
             Content: courseName,
-            lesson: null,
+            lesson: lesson,
             knowledgeComponents: null,
             hintType: null,
             dynamicHint: null,
