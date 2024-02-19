@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/OATutor-Question-Generation-Final/static/css/main.82116cb2.css",
-    "main.js": "/OATutor-Question-Generation-Final/static/js/main.e3f6d61a.js",
+    "main.css": "/OATutor-Question-Generation-Final/static/css/main.aeabc6ec.css",
+    "main.js": "/OATutor-Question-Generation-Final/static/js/main.d7754aa6.js",
     "static/media/Symbola.svg": "/OATutor-Question-Generation-Final/static/media/Symbola.f647c9292a2da02d9ae8.svg",
     "static/media/Symbola.eot": "/OATutor-Question-Generation-Final/static/media/Symbola.d25fbd520f6558203fb4.eot",
     "static/media/Symbola.ttf": "/OATutor-Question-Generation-Final/static/media/Symbola.1ac5fa7f9b82ed4ce3f3.ttf",
     "static/media/Symbola.woff": "/OATutor-Question-Generation-Final/static/media/Symbola.353fd9bde3c87711f5fc.woff",
     "static/media/Symbola.woff2": "/OATutor-Question-Generation-Final/static/media/Symbola.080d8bb6a36e8bd8966b.woff2",
     "index.html": "/OATutor-Question-Generation-Final/index.html",
-    "main.82116cb2.css.map": "/OATutor-Question-Generation-Final/static/css/main.82116cb2.css.map",
-    "main.e3f6d61a.js.map": "/OATutor-Question-Generation-Final/static/js/main.e3f6d61a.js.map"
+    "main.aeabc6ec.css.map": "/OATutor-Question-Generation-Final/static/css/main.aeabc6ec.css.map",
+    "main.d7754aa6.js.map": "/OATutor-Question-Generation-Final/static/js/main.d7754aa6.js.map"
   },
   "entrypoints": [
-    "static/css/main.82116cb2.css",
-    "static/js/main.e3f6d61a.js"
+    "static/css/main.aeabc6ec.css",
+    "static/js/main.d7754aa6.js"
   ]
 }
