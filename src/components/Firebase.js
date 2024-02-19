@@ -337,12 +337,28 @@ class Firebase {
             `Logging that the problem has been started (${problemID})`
         );
         const data = {
+            eventType: "StartedProblem",
             problemID,
+            stepID: null,
+            hintID: null,
+            input: null,
+            correctAnswer: null,
+            isCorrect: null,
+            hintInput: null,
+            hintAnswer: null,
+            hintIsCorrect: null,
+            hintsFinished: null,
+            dynamicHint: "abc",
+            bioInfo: "abcedf",
+            variabilization: null,
             Content: courseName,
-            lesson,
-            lessonObjectives,
+            lesson: null,
+            knowledgeComponents: null,
+            hintType: null,
+            dynamicHint: null,
+            bioInfo: null,
         };
-        return this.writeData(problemStartLogOutput, data);
+        return this.writeData(QuestionGenerationStudy, data);
     }
 
     submitSiteLog(logType, logMessage, relevantInformation, problemID = "n/a") {
